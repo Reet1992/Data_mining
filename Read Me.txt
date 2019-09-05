@@ -1,0 +1,15 @@
+I have used Rstudio Here.
+
+ 1.There are tow set of text files pf positive and negative words.Those works as an dictionary.
+
+ 2.Load the Extracting from Amazon_Rcode.R and change the link of any particular product.This time i have done with the product link of Dell inspiron Latptop.
+
+   Run the file.It will generate a Text File contains all the review.
+
+ 3. Load the amazon_sentiment.R 
+         a) Run the install packages together
+         b) Run the Libraries
+         c)Run the input section for postive and Negative text dictionaries
+         d)Run the rest of the code 
+
+ 4. The graph for the k means clusteing, word clouds and semantic dendrogram and semnatic nets will get generated.
